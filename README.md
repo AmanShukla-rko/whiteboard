@@ -1,4 +1,4 @@
-# react-whiteboard-pdf
+# react-whiteboard
 
 <div>
   <h2>
@@ -9,38 +9,17 @@
 
 <br />
 
-![Example](./app-example.png)
+
+
+
 
 Check App demo here:
 
-# App [DEMO](https://statuesque-muffin-fb224e.netlify.app/)
+# App [DEMO]()
 
 <br/>
 
-## If you like this project you can help us with $1,000,000 donation or any other amount
 
-github: [github.com/sponsors/spiridonov-oa](https://github.com/sponsors/spiridonov-oa)
-patreon: [patreon.com/OlegSpiridonov](https://patreon.com/OlegSpiridonov)
-
-## Compatibility
-
-React 17
-
-<br/>
-
-## Installation
-
-```shell
-npm install react-whiteboard-pdf
-```
-
-or
-
-```shell
-yarn add react-whiteboard-pdf
-```
-
-<br/>
 
 ## Usage
 
@@ -124,18 +103,3 @@ const App = () => {
 };
 ```
 
-## Development:
-
-```shell
-npm i
-npm start
-```
-
-## Author:
-
-[spiridonov-oa](https://github.com/spiridonov-oa)
-
-## Contributors:
-
-Thanks for your help in building this project
-[rodionspi](https://github.com/rodionspi)
